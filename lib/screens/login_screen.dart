@@ -50,8 +50,10 @@ class _LoginScreenState extends State<LoginScreen> {
                 },
                 decoration: kTextFieldDecoration.copyWith(
                   hintText: 'Enter your email',
-                  hintStyle:
-                      TextStyle(fontSize: 20.0, color: Colors.blueAccent),
+                  hintStyle: TextStyle(
+                    fontSize: 20.0,
+                    color: Colors.blueAccent,
+                  ),
                 ),
               ),
               SizedBox(
@@ -66,8 +68,10 @@ class _LoginScreenState extends State<LoginScreen> {
                 },
                 decoration: kTextFieldDecoration.copyWith(
                   hintText: 'Enter your password.',
-                  hintStyle:
-                      TextStyle(fontSize: 20.0, color: Colors.blueAccent),
+                  hintStyle: TextStyle(
+                    fontSize: 20.0,
+                    color: Colors.blueAccent,
+                  ),
                 ),
               ),
               SizedBox(

@@ -49,7 +49,7 @@ class _ChatScreenState extends State<ChatScreen> {
             },
             child: Text(
               '☠',
-              style: kSendButtonTextStyle,
+              style: kSendButtonTextStyle.copyWith(color: Colors.redAccent),
             ),
           ),
         ],
