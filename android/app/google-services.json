@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652223692356",
+    "firebase_url": "https://flutchat-2bff4.firebaseio.com",
+    "project_id": "flutchat-2bff4",
+    "storage_bucket": "flutchat-2bff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652223692356:android:5865c170cb71d672dac611",
+        "android_client_info": {
+          "package_name": "com.angelprieto.flutchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652223692356-1r9r068l7jh9d2rt44quj9csk2opllja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcDeUSz9f9VIWF3ucoS1T4YM2CGhXyhIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652223692356-1r9r068l7jh9d2rt44quj9csk2opllja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
